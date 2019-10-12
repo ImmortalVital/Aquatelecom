@@ -1,0 +1,20 @@
+
+.img-round {
+	border-radius: 100px;
+	border: 1px solid #5871a7;
+}
+.img-round:hover {
+	box-shadow: 0 0 5px #666;
+} 
+
+.carousel-indicators .active {
+  opacity: 1;
+}
+
+.carousel-caption {
+	/*border-radius: 5px;
+	border: 1px solid #5871a7;
+	background: #b4bfd6;
+	background: transparent;*/
+	color: #000000;
+}
